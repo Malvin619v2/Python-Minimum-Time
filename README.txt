@@ -1,0 +1,1 @@
+A small aplication I created to calaculate the minimum time from an array of times. The purpose of this was to calculate the fastest time a group of runners in a marathron run.
